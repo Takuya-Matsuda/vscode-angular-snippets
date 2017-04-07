@@ -1,6 +1,6 @@
 {
     "name": "vscode-angular-snippets",
-    "publisher": "matsuda-t",
+    "publisher": "ikomiki",
     "displayName": "Angular v4 TypeScript Snippets",
     "description": "Angular with TypeScript snippets.",
     "icon": "images/angular-shield.png",
