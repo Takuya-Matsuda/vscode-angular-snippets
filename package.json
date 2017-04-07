@@ -11,7 +11,7 @@
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
         "type": "git",
-        "url": "git@github.com:matsuda-t/vscode-angular-snippets.git"
+        "url": "https://github.com/matsuda-t/vscode-angular-snippets.git"
     },
     "keywords" : [
         "Angular",
