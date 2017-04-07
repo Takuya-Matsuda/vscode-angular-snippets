@@ -7,7 +7,7 @@
       "",
       "@Component({",
       "\tselector: '${selector-name}',",
-      "\ttemplateUrl: '${name}.component.html'",
+      "\ttemplateUrl: './${name}.component.html',",
       "})",
       "",
       "export class ${Name}Component implements OnInit {",
