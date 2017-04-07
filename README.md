@@ -1,5 +1,10 @@
 # Angular TypeScript Snippets for VS Code
 
+## Fork
+
+* Remove 'module.id'
+* Add 'changeDetection: ChangeDetectionStrategy.OnPush'
+
 **Now Updated for Angular 4.0.0 release**
 
 This extension for Visual Studio Code adds snippets for Angular for TypeScript and HTML.

@@ -1,6 +1,6 @@
 {
-    "name": "Angular2",
-    "publisher": "johnpapa",
+    "name": "vscode-angular-snippets",
+    "publisher": "matsuda-t",
     "displayName": "Angular v4 TypeScript Snippets",
     "description": "Angular with TypeScript snippets.",
     "icon": "images/angular-shield.png",
@@ -11,7 +11,7 @@
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/johnpapa/vscode-angular2-snippets.git"
+        "url": "git@github.com:matsuda-t/vscode-angular-snippets.git"
     },
     "keywords" : [
         "Angular",
